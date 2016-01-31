@@ -4,7 +4,7 @@
 //
 //  Created by Ali Hyder on 1/27/16.
 //  Implemented following tutorial from http://tutorials.jenkov.com/java-multithreaded-servers/thread-pooled-server.html
-//	All code is my own code, however it is heavily influenced by the contnt from the above url
+//	All code is my own code, however it is heavily influenced by the content from the above url
 //
 package WebTechTestAEM;
 

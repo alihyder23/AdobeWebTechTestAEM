@@ -2,7 +2,7 @@
 //  Server.java
 //  Multithreaded Web Server with thread pooling implemented in Java
 //	Implemented using example from https://github.com/ibogomolov/WebServer
-//	All code is my own code, however it is heavily influenced by the contnt from the above url
+//	All code is my own code, however it is heavily influenced by the content from the above url
 //  Created by Ali Hyder on 1/27/16.
 //
 package WebTechTestAEM;
